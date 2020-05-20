@@ -13,3 +13,6 @@ This script applies color theme on saved sessions in PuTTY
 Original [putty.org.ru](http://putty.org.ru/themes/index.html)
 
 Now avaliable on [webarchive]( https://web.archive.org/web/20151122030926/http://putty.org.ru:80/themes/index.html)
+
+# good theme
+* 03. Birds Of Paradise
