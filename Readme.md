@@ -20,3 +20,5 @@ Now avaliable on [webarchive]( https://web.archive.org/web/20151122030926/http:/
 *  03 Birds Of Paradise
 *  16 Hurtado
 *  19 Igvita Desert
+ # how to change theme in windows10
+ https://www.cyber8.co.uk/networking-tools/change-putty-font-colour-size-saved-sessions/
