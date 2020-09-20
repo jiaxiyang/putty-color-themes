@@ -22,3 +22,6 @@ Now avaliable on [webarchive]( https://web.archive.org/web/20151122030926/http:/
 *  19 Igvita Desert
  # how to change theme in windows10
  https://www.cyber8.co.uk/networking-tools/change-putty-font-colour-size-saved-sessions/
+ 
+ # other resource
+ * https://github.com/jiaxiyang/iTerm2-Color-Schemes/tree/master/putty
