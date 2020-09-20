@@ -17,9 +17,8 @@ Now avaliable on [webarchive]( https://web.archive.org/web/20151122030926/http:/
 # good theme
 *  31 novel
 *  08 Desert
-*  03 Birds Of Paradise
-*  16 Hurtado
 *  19 Igvita Desert
+*  50 zenburn
  # how to change theme in windows10
  https://www.cyber8.co.uk/networking-tools/change-putty-font-colour-size-saved-sessions/
  
