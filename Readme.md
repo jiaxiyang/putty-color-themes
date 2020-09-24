@@ -15,10 +15,11 @@ Original [putty.org.ru](http://putty.org.ru/themes/index.html)
 Now avaliable on [webarchive]( https://web.archive.org/web/20151122030926/http://putty.org.ru:80/themes/index.html)
 
 # good theme
+*  50 zenburn
 *  31 novel
 *  08 Desert
 *  19 Igvita Desert
-*  50 zenburn
+
  # how to change theme in windows10
  https://www.cyber8.co.uk/networking-tools/change-putty-font-colour-size-saved-sessions/
  
